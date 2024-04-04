@@ -31,7 +31,6 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-~~~
 <html>
 <head>
   <title>Book Cover</title>
@@ -187,12 +186,7 @@ Publish the website in the LocalHost.
 
   </div>
 </body>
-
 </html>
-~~~
-
-
-
 ## OUTPUT:
 ![alt text](<Screenshot 2024-04-04 175633.png>)
 ## RESULT:
