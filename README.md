@@ -190,6 +190,9 @@ Publish the website in the LocalHost.
 
 </html>
 ~~~
+
+
+
 ## OUTPUT:
 ![alt text](<Screenshot 2024-04-04 175633.png>)
 ## RESULT:
